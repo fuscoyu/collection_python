@@ -1,6 +1,7 @@
 # coding=utf-8
 
-import threading, time
+import threading
+import time
 
 
 def my_counter():
